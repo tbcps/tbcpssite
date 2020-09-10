@@ -1,6 +1,9 @@
+img {
+  width: 100%;
+  height: auto;
+}
 .site-content {
     font-family: 'Courier New', Courier, monospace;
-    padding: 80px;
 }
 
 h1 {
