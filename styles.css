@@ -46,10 +46,9 @@ h1 {
   }
 
   .button {
-    width: 25%;
-    height: 25%;
-    padding: 1em;
-      box-shadow: none;
+    width: 20%;
+    height: auto;
+    box-shadow: none;
     background-color:#7d5d3b;
       border-radius: 10px;
     text-indent:0;
@@ -73,11 +72,4 @@ h1 {
   .button:focus{
     outline: none;
     }
-
-    @media all and (max-width: 480px) 
-        {
-            .button
-{
-    width: 25%;
-    height: 25%;
-}            
+    
