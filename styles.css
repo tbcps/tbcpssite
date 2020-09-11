@@ -46,11 +46,11 @@ h1 {
   }
 
   .button {
-    border: 0;
+    width: 2em;
     box-shadow: none;
     background-color:#7d5d3b;
       border-radius: 10px;
-  text-indent:0;
+    text-indent:0;
       display:inline-block;
       color:#ffffff;
       font-family:Arial;
