@@ -44,11 +44,9 @@ h1 {
     float:left; 
     margin:5px;
   }
-.button-div{
-width: 30%;
-}
+
   .button {
-    width: 100%;
+    width: 30%;
     height: auto;
     box-shadow: none;
     background-color:#7d5d3b;
