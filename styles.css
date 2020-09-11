@@ -50,6 +50,7 @@ h1 {
   .button {
     width: auto;
     height: 3.5em;
+    border: 0px;
     -webkit-appearance: none;
       box-shadow: none;
     background-color:#7d5d3b;
