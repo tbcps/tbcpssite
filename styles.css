@@ -47,7 +47,7 @@ h1 {
 
   .button {
     width: 30%;
-    height: auto;
+    height: 4em;
     box-shadow: none;
     background-color:#7d5d3b;
       border-radius: 10px;
