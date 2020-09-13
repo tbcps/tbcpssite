@@ -5,7 +5,7 @@ img {
 }
 .site-content {
     font-family: 'Courier New', Courier, monospace;
-    padding: 0em;
+    padding: 2em;
 }
 
 h1 {
@@ -48,7 +48,7 @@ h1 {
   }
 
   .button {
-    width:auto;
+    width: auto;
     height: 3.5em;
     border: 0px;
     -webkit-appearance: none;
