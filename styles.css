@@ -38,6 +38,7 @@ h1 {
 
   }
 
+
   .container{
       overflow:auto;
   }
@@ -77,3 +78,34 @@ h1 {
     outline: none;
     }
     
+    .button2 {
+      width: auto;
+      height: 2.5em;
+      border: 0px;
+      -webkit-appearance: none;
+        box-shadow: none;
+      background-color:#7d5d3b8e;
+        border-radius: 10px;
+      text-indent:0;
+        display:inline-block;
+        color:#ffffff;
+        font-family:Arial;
+        font-size:14px;
+        font-weight:bold;
+        font-style:normal;
+        padding: 10px;
+        text-decoration:none;
+        text-align:center;
+    }.button2:hover {
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#634b30', endColorstr='#7d5d3b');
+        background-color:#634b30;
+    }.button2:active {
+        position:relative;
+        top:1px;
+    }
+  
+    .button2:focus{
+      outline: none;
+      }
+      
+  
